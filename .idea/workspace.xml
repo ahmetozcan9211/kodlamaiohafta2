@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1af9829-859d-45a5-9ba4-44ad74107ec8" name="Changes" comment="ders 34 son">
-      <change afterPath="$PROJECT_DIR$/src/methodOverloading/DortIslem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/methodOverloading/Main.java" afterDir="false" />
+    <list default="true" id="c1af9829-859d-45a5-9ba4-44ad74107ec8" name="Changes" comment="ders 35 son">
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/CustomerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/EmployeeManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance/PersonManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664019044320</updated>
       <workItem from="1664019045970" duration="5744000" />
-      <workItem from="1664082054013" duration="2348000" />
+      <workItem from="1664082054013" duration="3036000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664019629320</created>
@@ -106,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664084129232</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="ders 35 son">
+      <created>1664084447327</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664084447327</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +143,7 @@
     <MESSAGE value="ders 31 son" />
     <MESSAGE value="ders 33 son" />
     <MESSAGE value="ders 34 son" />
-    <option name="LAST_COMMIT_MESSAGE" value="ders 34 son" />
+    <MESSAGE value="ders 35 son" />
+    <option name="LAST_COMMIT_MESSAGE" value="ders 35 son" />
   </component>
 </project>
