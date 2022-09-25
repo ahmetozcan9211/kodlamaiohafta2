@@ -1,6 +1,22 @@
 package classesWithAttributes;
 
 public class Product {
+
+    public Product(int id, String name, String description, double price, int stockAmount, String renk){
+        this._id=id;
+        this._description=description;
+        this._price=price;
+        this._stockAmount=stockAmount;
+        this._renk=renk;
+        this._name=name;
+
+
+
+    }
+    public Product(){
+
+    }
+
     private int _id;
     private String _name;
     private String _description;
