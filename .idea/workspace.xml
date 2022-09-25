@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c1af9829-859d-45a5-9ba4-44ad74107ec8" name="Changes" comment="ders 30 son">
-      <change afterPath="$PROJECT_DIR$/src/classesWithAttributes/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesWithAttributes/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classesWithAttributes/ProductManager.java" afterDir="false" />
+    <list default="true" id="c1af9829-859d-45a5-9ba4-44ad74107ec8" name="Changes" comment="ders 31 son">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/classesWithAttributes/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/classesWithAttributes/ProductManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +31,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1664019044320</updated>
-      <workItem from="1664019045970" duration="5365000" />
+      <workItem from="1664019045970" duration="5744000" />
+      <workItem from="1664082054013" duration="160000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1664019629320</created>
@@ -78,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664025030795</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ders 31 son">
+      <created>1664025556694</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664025556694</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,6 +106,7 @@
     <MESSAGE value="ders 25 son" />
     <MESSAGE value="ders 29 son" />
     <MESSAGE value="ders 30 son" />
-    <option name="LAST_COMMIT_MESSAGE" value="ders 30 son" />
+    <MESSAGE value="ders 31 son" />
+    <option name="LAST_COMMIT_MESSAGE" value="ders 31 son" />
   </component>
 </project>
